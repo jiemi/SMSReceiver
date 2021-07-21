@@ -1,0 +1,9 @@
+Package: dev.yourcompany.smsreceiver
+Name: SMSReceiver
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: This is a tweak to post received SMS to any URL.
+Maintainer: Watanabe Toshinori
+Author: Watanabe Toshinori
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
